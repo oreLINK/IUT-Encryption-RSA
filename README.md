@@ -1,4 +1,4 @@
-# IUT-Encryption
+# IUT-Encryption-RSA
 
 ![contribution](https://img.shields.io/badge/contribution-no-red.svg)
 
