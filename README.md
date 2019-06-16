@@ -1,6 +1,5 @@
 # IUT-Encryption
 
-![version](https://img.shields.io/badge/version-1.0-blue.svg)
 ![contribution](https://img.shields.io/badge/contribution-no-red.svg)
 
 > Choose your language
@@ -29,7 +28,7 @@
 
 # English
 
-Description coming soon ...Description coming soon ...Description coming soon ...DeD`
+`Description coming soon...`
 
 ![#008000](https://placehold.it/15/008000/000000?text=+)   *Project completed*
 
