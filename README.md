@@ -6,6 +6,10 @@
 
 :point_right: [:fr:](#français) :point_right: [:us:](#english)
 
+![macOS](https://user-images.githubusercontent.com/35436186/74678618-cc819500-51bb-11ea-9384-17913ef69023.png) | ![Windows](https://user-images.githubusercontent.com/35436186/74678726-1a969880-51bc-11ea-86df-84733c6c1836.png) | ![Linux](https://user-images.githubusercontent.com/35436186/74678779-4ca7fa80-51bc-11ea-9792-9c9ae0ebf1f5.png) |
+--- | --- | --- |
+Latest ✔ | Latest ✔ | Latest ✔ |
+
 # Français
 
 `Description à venir...`
