@@ -10,6 +10,36 @@ Latest ✔ | Untested ✕ | Untested ✕ |
 
 ![#008000](https://placehold.it/15/008000/000000?text=+)   *Project completed*
 
+# Prerequisites
+
+`Description coming soon...`
+
+# Installation
+
+## macOS & Linux
+
+`Description coming soon...`
+
+## Windows
+
+`Description coming soon...`
+
+# Demo
+
+`Description coming soon...`
+
+# Utilisation
+
+`Description coming soon...`
+
+# Release history
+    
+`Description coming soon...`
+    
+# License
+
+`Description coming soon...`
+
 # Contributors
 
 * [oreLINK](https://github.com/oreLINK)
