@@ -1,5 +1,6 @@
 # IUT-Encryption-RSA
 
+![version](https://img.shields.io/badge/version-1.0-blue.svg)
 ![contribution](https://img.shields.io/badge/contribution-no-red.svg)
 
 *:bangbang: This project contains errors that will be fixed in a future update.*
