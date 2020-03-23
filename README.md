@@ -15,7 +15,9 @@ Latest ✔ | Untested ✕ | Untested ✕ |
 
 ## Prerequisites
 
-`Description coming soon...`
+![IntelliJ_IDEA](https://user-images.githubusercontent.com/35436186/77335680-c769b580-6d26-11ea-87c2-344ef53d79c5.png) |
+--- |
+[IntelliJ IDEA](https://www.jetbrains.com/idea/) ✔ |
 
 ## Installation
 
